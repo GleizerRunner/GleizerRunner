@@ -6,6 +6,7 @@
 
 ![Gleizer's github stats](https://github-readme-stats.vercel.app/api?username=GleizerRunner&show_icons=false&theme=dark)
 
+[![Meu site MEI](https://img.shields.io/badge/Meu%20Site%20MEI-GISMarxev-blue)](gismarxev.com)
 <!---
 GleizerRunner/GleizerRunner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
