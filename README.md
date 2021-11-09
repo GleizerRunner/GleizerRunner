@@ -7,7 +7,7 @@
 ![Gleizer's github stats](https://github-readme-stats.vercel.app/api?username=GleizerRunner&show_icons=false&theme=dark)
 
 [![Meu site MEI](https://img.shields.io/badge/Meu%20Site%20MEI-GISMarxev-blue)](http://gismarxev.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&labelColor=white&logo=Linkedin&Color=white)](https://www.linkedin.com/in/gleizer/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&labelColor=blue&logo=Linkedin&Color=white)](https://www.linkedin.com/in/gleizer/)
 
 <!---
 GleizerRunner/GleizerRunner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
