@@ -6,7 +6,7 @@
 
 ![Gleizer's github stats](https://github-readme-stats.vercel.app/api?username=GleizerRunner&show_icons=false&theme=dark)
 
-[![Meu site MEI](https://img.shields.io/badge/Meu%20Site%20MEI-000000-GISMarxev-4f7782?style=plastic)](http://gismarxev.com)
+[![Meu site MEI](https://img.shields.io/badge/Meu%20Site%20MEI-000000GISMarxev-4f7782?style=plastic)](http://gismarxev.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&labelColor=blue&logo=Linkedin&Color=white)](https://www.linkedin.com/in/gleizer/)
 
 <!---
