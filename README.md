@@ -8,7 +8,7 @@
 - 📫 How to reach me...
 
 [![Meu site MEI](https://img.shields.io/badge/Meu%20Site%20MEI-GISMarxev-4f7782?style=for-the-badge)](https://gismarxev.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&labelColor=blue&logo=Linkedin&Color=white)](https://www.linkedin.com/in/gleizer/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&labelColor=blue&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gleizer/)
 
 - :computer: My system:
 
