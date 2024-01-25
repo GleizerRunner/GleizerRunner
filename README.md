@@ -12,7 +12,7 @@
 
 - :computer: My system:
 
-[![KDE](https://img.shields.io/badge/I%20love%20KDENeon-4f7782?style=for-the-badge&labelColor=1cb398&logo=kde&logoColor=white)](https://kubuntu.org)
+[![KDE](https://img.shields.io/badge/I%20love%20KDENeon-4f7782?style=for-the-badge&labelColor=1cb398&logo=kde&logoColor=white)](https://neon.kde.org))
 [![Alienware](https://img.shields.io/badge/Using%20Dell%20AlienWare-4f7782?style=for-the-badge&labelColor=1cb398&logo=alienware&logoColor=white)](https://kubuntu.org)
 
 <!---
