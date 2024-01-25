@@ -7,9 +7,9 @@
 
 - 📫 How to reach me ...
 
-[![Meu site MEI](https://img.shields.io/badge/Meu%20Site%20MEI-GISMarxev-4f7782?style=plastic)](https://gismarxev.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&labelColor=blue&logo=Linkedin&Color=white)](https://www.linkedin.com/in/gleizer/)
-[![Kubuntu](https://img.shields.io/badge/I%20love%20Kubuntu-047bc3?style=plastic&labelColor=047bc3&logo=Kubuntu&Color=white)](https://kubuntu.org)
+[![Meu site MEI](https://img.shields.io/badge/Meu%20Site%20MEI-GISMarxev-4f7782?style=for-the-badge)](https://gismarxev.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&labelColor=blue&logo=Linkedin&Color=white)](https://www.linkedin.com/in/gleizer/)
+[![Kubuntu](https://img.shields.io/badge/I%20love%20Kubuntu-047bc3?style=for-the-badge&labelColor=047bc3&logo=Kubuntu&Color=white)](https://kubuntu.org)
 [![KDE](https://img.shields.io/badge/I%20love%20KDENeon-047bc3?style=for-the-badge&labelColor=047bc3&logo=KDE=white)](https://kubuntu.org)
 
 <!---
