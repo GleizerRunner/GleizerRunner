@@ -12,7 +12,7 @@
 
 - :computer: My system:
 
-[![KDE](https://img.shields.io/badge/I%20love%20KDENeon-047bc3?style=for-the-badge&labelColor=1cb398&logo=kde&logoColor=white)](https://kubuntu.org)
+[![KDE](https://img.shields.io/badge/I%20love%20KDENeon-4f7782?style=for-the-badge&labelColor=1cb398&logo=kde&logoColor=white)](https://kubuntu.org)
 
 <!---
 GleizerRunner/GleizerRunner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
