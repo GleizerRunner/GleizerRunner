@@ -1,5 +1,5 @@
 # Hello there, I’m Mauricio Gleizer - @GleizerRunner
-- 👀 I’m interested in Artificial Intelligence, SCRUM, Software Engineering and Geoprocessing.
+- 👀 :abacus: I’m interested in Artificial Intelligence, SCRUM, Software Engineering and Geoprocessing.
 - 🌱 I’m currently learning Python, Laravel, HTML5&CSS3, WordPress.
 - 💞️ I’m looking to collaborate on Open Source Projects and Informational Inclusion.
 
