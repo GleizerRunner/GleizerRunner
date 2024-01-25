@@ -13,7 +13,7 @@
 - :computer: My system:
 
 [![KDE](https://img.shields.io/badge/I%20love%20KDENeon-4f7782?style=for-the-badge&labelColor=1cb398&logo=kde&logoColor=white)](https://neon.kde.org)
-[![Alienware](https://img.shields.io/badge/Using%20Dell%20AlienWare-4f7782?style=for-the-badge&labelColor=1cb398&logo=alienware&logoColor=white)]
+[![Alienware](https://img.shields.io/badge/Using%20Dell%20AlienWare-4f7782?style=for-the-badge&labelColor=1cb398&logo=alienware&logoColor=white)](https://www.amazon.com.br/Notebook-Dell-Alienware-Area-51m-51MR2-A30B/dp/B08L5MWB5D)
 
 <!---
 GleizerRunner/GleizerRunner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
