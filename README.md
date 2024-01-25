@@ -2,9 +2,10 @@
 - 👀 I’m interested in Artificial Intelligence, SCRUM, Software Engineering and Geoprocessing.
 - 🌱 I’m currently learning Python, Laravel, HTML5&CSS3, WordPress.
 - 💞️ I’m looking to collaborate on Open Source Projects and Informational Inclusion.
-- 📫 How to reach me ...
 
 ![Gleizer's github stats](https://github-readme-stats.vercel.app/api?username=GleizerRunner&show_icons=false&theme=dark)
+
+- 📫 How to reach me ...
 
 [![Meu site MEI](https://img.shields.io/badge/Meu%20Site%20MEI-GISMarxev-4f7782?style=plastic)](https://gismarxev.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&labelColor=blue&logo=Linkedin&Color=white)](https://www.linkedin.com/in/gleizer/)
