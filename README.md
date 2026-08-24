@@ -4,7 +4,6 @@
 - :robot: I’m looking to collaborate on Projects with intense use of generative artificial intelligence tools.
 - :man_teacher: I'm an hourly instructor at SENAI/MS, in qualification and training courses in Information and Communication Technology.
 
-![Gleizer's github stats](https://github-readme-stats.vercel.app/api?username=GleizerRunner&show_icons=false&theme=dark)
 
 - 📫 How to reach me...
 
